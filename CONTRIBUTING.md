@@ -61,3 +61,5 @@ If you discover a potential security issue in this project we ask that you notif
 ## Licensing
 
 See the [LICENSE](LICENSE) file for our project's licensing. We will ask you to confirm the licensing of your contribution.
+
+Thank you to all of our contributors for helping make Agent Plugins for AWS better!
