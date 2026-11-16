@@ -118,7 +118,7 @@ To try these plugins in Codex from this repo:
 4. Open the plugin directory, choose the `Agent Plugins for AWS` marketplace,
    and install the plugin you want to use.
 
-Known limitation:
+Known limitations:
 
 - Claude-specific automatic hooks are not yet wired into the Codex manifests.
 - The `databases-on-aws` prompt hook is included because it does not depend on
